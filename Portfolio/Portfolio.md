@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   text-align: center;
   padding: 50px 20px 0;
@@ -29,3 +30,19 @@ html{
   background-repeat:;
 }
 
+=======
+
+<h1 align="center"> Lam Slimenstein Design Smiling face with horns
+Face vomiting</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/jesusPiece.png" alt="Cheeks??">
+   
+ </a>
+ <img src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/jesusPiece.png" alt="Be Mine??">
+ 
+ <img src="/LamSlimenstein.png" alt="Goddess??">
+ 
+ <a href="https://twitter.com/lamslimenstein" target="_blank">
+    <img alt="Twitter: LamSlimenstein" src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/splashMountainZiggurath.png/>
+ </div>
+>>>>>>> 7ab5f6eb9b6c994ac12ae0c86ab5b7e640f77db1
