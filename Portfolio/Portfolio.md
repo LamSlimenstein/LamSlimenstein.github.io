@@ -1,6 +1,4 @@
-
-<h1 align="center"> Lam Slimenstein Design Smiling face with horns
-Face vomiting</h1>
+<h1 align="center"> Lam Slimenstein Design</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/jesusPiece.png" alt="Cheeks??">
    
