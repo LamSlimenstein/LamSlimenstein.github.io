@@ -6,8 +6,6 @@ h3 by her gentle breath the atoms dance to a crescendo pitch
 hr 
 
 ul.posts
-  each article, slug in public.Rituals._data
-    li.posts
-      a(href="/Rituals/#{ slug }")
-        span.glyphicon.glyphicon-console(aria-hidden='true')
-        | #{ article.title }
+  each ritual, slug in public.Rituals._data
+    li
+      a(href="/Rituals/#{ slug }") #{ article.title }
