@@ -1,5 +1,5 @@
 # We are Lam.
-## We create.
+# We create.
 ### Follow our trail <3
 <div align="center">
 
