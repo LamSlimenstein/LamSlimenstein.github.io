@@ -1,15 +1,8 @@
 # We are Lam.
 # We create.
-### Follow our trail <3
+# Follow our trail <3
 <div align="center">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -97,10 +90,7 @@
   
   
   
-  
-  
-  
-  
+    
   
   
 </div>
