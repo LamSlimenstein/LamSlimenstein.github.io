@@ -1,5 +1,5 @@
 <div align="center">
 <br>
-<img src="abyssSurfer.png" alt="Anima in Assembly Markup">
+<img src="https://raw.githubusercontent.com/LamSlimenstein/Portfolio/main/Work/abyssSurfer.png" alt="Anima in Assembly Markup">
 <br>
 </div>
