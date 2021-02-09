@@ -63,28 +63,7 @@
 
 
 
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                   
-                                                                                                                                                             ˙˙˙˙ ˙˘˘˘˘˘:˘--::-˘˘˘˘˘˘˙˙ ˙                                                                                                         
-                                                                                                   ˙˙˘˘˘˘˘::::::::;::;:;::;;;;:::::˘˘˘˘˘˙˙                                                                                                   
-                                                                                             ˙ ˙˘˘:::::;;;=;=+=⁄||||øi|||||i||+++==;;;:::-˘˘˘˙˙                                                                                              
-                                                                                         ˙˙˙˘˘:::::;===⁄vvvn∞∞∞∞vvv∞∞∞ovnnnnÒi|=||||˜=|_+;=:::-˘˘˙  ˙                                                                                        
-                                                                                      ˙˙˘˘:::;;==⁄¬∞∞∞∞∞∞∞∞∞oooo∞∞∞∞∞∞∞∞∞onnnvIÒi||iii|ii|+===;;:::˘˙                                                                                        
-                                                                                     ˘˘::;===|≠v∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞oo∞no∞o∞o∞∞∞∞noonI|ÒvÒÒii˜|||+|=:;::: ˙                                                                                    
-                                                                                 ˙˘˘::::=|⁄¬∞on∞∞∞∞„∞∞∞∞o∞∞∞∞∞∞∞∞o∞o∞∞∞∞nnnonnoo∞n∞∞∞¬˜InnvIlii|||i||=:::-˘˙                                                                                 
-                                                                               ˙˘:::;+||vn∞∞on∞∞∞„„„„„„„„„∞„∞„∞„„„∞∞„∞∞∞∞∞∞∞∞∞no∞n∞n∞∞∞∞nnvÒii||i||iiÒi;+;:-˘˘˙        ˙                                                                     
-                                                                            ˙˘˘;;;=|lÒlv∞∞∞∞∞XÔXZZZZZZZZÔZZZZZZZZXÔÔXXX„„∞∞∞∞∞∞∞o∞n∞on∞nno∞Ò+|||i|i||iÒvvø==:::˘                                                                             
-                                                                          ˘˙˘;;=|ÒIIvv∞XXZZÍÍÍÍÍÍÍÍ#########Í#ÍÍÍÍÍZÍZZZÔZÔXX„„∞∞∞∞∞n∞vnnnnonø=|iiÒÒÒ||˜iIvvø;;::˘˙                                                                          
-                                                                        ˙˘:;=+|llIvn„Z#Í###mm##mmmmWmWmWmWmWmmmmmm#m####ÍZZZÍZZÔXX∞∞∞∞oo∞∞vvnvl||ÒIlÒÒ||+|i˜ivø_=::˘˙                                                                        
+                                                                        ˙˘:;=+|llIvn„Z#Í###mm##mmmmWmWmWmWmWmmmmmm#m####ÍZZZÍZZÔXX∞∞∞∞oo∞∞vvnvl||ÒIlÒÒ||+|i˜ivø_=::˘˙                                                          
                                                                       ˘˘::;||iÒil∞„Í###mmWmWWWWWWWQWWWWWWWWWWWWWWWWWmmmm####ÍÍÍZZZ∞n∞∞„∞∞∞∞∞∞nnv|ilÒi|i|=||Ò|˜ivv=+;:˘˘                                                                      
                                                                     ˘˘::=|˜iÒiiv„#mWWWWWQWQQWWQQQQQQQQQQQQQQQQQWWWWWWWWmWmWmÍ„XÍZZXX„„∞∞„∞∞∞o∞∞∞vnnIÒi|||=+˜iÒlIInv⁄:;:˘˘                                                                    
                                                                  ˙˙˘::=|ÒiÒvII∞ZWWQWWQQQQQQQQQQQQ±QQ±QQ±QQQQQQQQQQQQQWWWQQW#mmWm#mÍÔ#XZZXX„„„∞∞n∞n∞n∞lÒ|||||ÒÒIlvÒllv==;:˘˙                                                                  
@@ -308,7 +287,15 @@
                                                     ˙;|∞XXM≤≤≤≤≤≤◊QQ◊QmmÎ∞M◊Qm—‡dÿQm˛Î#ÿmuUW◊m#◊◊Q◊Q◊QQ◊◊0◊◊◊◊◊≤≤◊≤≤≤≤≤≤≤≤≤◊◊≤◊≤◊≤±Q◊◊±±QQQQmW◊◊≤◊≤≤≤≤◊≤◊≤◊◊◊◊◊◊◊◊∂±±±«∂◊«±QWWQmQÍ„Ï˜+:˘˙                                                    
                                                      ˙:ˆ∞„XU◊≤≤€≤≤€≤≤◊◊Q◊d£„#±#Qm„„UµmEgÿQ◊ZW1Wmÿ$À•±ÿQ◊◊Q±Q◊≤◊≤◊≤≤◊◊≤◊≤◊≤◊◊◊À±WW◊◊≤◊≤±◊◊◊◊±QQ@M◊◊◊∂◊◊◊◊≤◊◊≤◊≤◊◊◊◊∂«±∂◊±◊±QQQW#WÍ„1˜+:˙                                          —BÊ£∞—VW∆0QQ◊mQW◊◊0ÿ◊◊◊≤≤≤≤◊≤◊≤◊≤◊◊≤◊≤◊◊◊◊◊◊◊QQ#ÿ0WM◊◊◊◊◊ÀÀ#Q±Q◊◊≤◊◊◊◊◊◊◊◊◊◊∂∂««±±QQQQQWm˛∞Æ|=:    ˙                                                   
                                                         :=|∞„#W◊≤≤≤≤≤≤≤◊◊◊pÔ#mXUUW$ÀUZXX„#∞md∞£dmQW◊Q◊◊Qg◊£◊◊≤◊◊◊≤◊◊≤◊≤◊≤◊◊≤◊◊◊◊◊≤≤≤≤◊◊◊Àmm£XUMM◊◊◊QQQ◊◊◊◊≤◊◊◊◊◊◊◊±±±±±±QQQQWm˛nÒ|;˘                                                         
-                                                        ˙ :+v∞X#Q◊≤≤≤€≤≤◊≤◊◊gX∞„∞WuWX#Xmm±ÀÀ◊Q◊À◊◊QWWQW∆QQ◊Q◊◊≤≤≤◊±◊QQQm∞„mXVMM◊◊••M◊◊◊◊◊◊◊◊±◊0W±QQ±◊◊◊◊◊◊◊◊◊◊◊◊◊∂±±Q±QQQQ◊Z#ÈI|=:˙˙                                                         
+                                                        ˙ :+v∞X#Q◊≤≤≤€≤≤◊≤◊◊gX∞„∞WuWX#Xmm±ÀÀ◊Q◊À◊◊QWWQW∆QQ◊Q◊◊≤≤≤◊±◊QQQm∞„mXVMM◊◊••M◊◊◊◊◊◊◊◊±◊0W±QQ±◊◊◊◊◊◊◊◊◊◊◊◊◊∂±±Q±QQQQ◊Z#ÈI|=:˙˙                             
+
+
+
+<img src="abyssSurfer.png" alt="Anima in Assembly Markup">
+
+
+
+                            
                                                            ˘ƒÆn„#◊±◊≤≤≤≤≤◊◊≤≤◊Àm∞„„∞∞„XmQ◊Q◊◊◊∂◊≤◊≤◊◊◊◊◊◊QW±◊◊±QWQ◊Q◊◊◊À◊◊QQ◊◊mQmQÀQQQQm±Qyg#uÀÀmQÍuQ◊◊◊◊◊◊«±±±«±±±QQQQQQW∞X1i+=:                                                            
                                                            ˙˙˘ˆ{∞ÎM◊◊≤≤≤≤≤◊◊◊◊◊◊mmÎuZ„dQ±◊◊≤◊◊◊◊◊≤◊≤◊≤≤◊≤◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊≤◊◊◊◊◊•◊±0◊WM•WWWmQ◊Q◊±Q◊◊◊◊◊◊≤◊◊◊◊◊«±WmmZÍWBW˛∞Ò|=:˘                                                             
                                                               ˘=|n∞U◊◊◊◊≤◊◊QWmW#WW#mmQQ±«◊◊◊◊◊◊±◊◊M◊◊◊M◊•◊◊◊◊◊◊◊◊◊≤•◊00◊◊≤◊◊◊Q◊◊ÀÀQZUÍÍVÍ∞„mQ◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊„Z#Í∞Ïnq˛v||:-˙                                                              
@@ -356,10 +343,8 @@
                                                                                                                                                                                         
                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                             
-©                                                                                                                                                                                                                                           ™
-
-------------------------------------------------------------------------------------
+                                                                                                                                                                                                                                                                                                                                                                         
+-----------------------------------------------------------------------------
 A gentle courtship could suffice an eager soul but the thin line condemns.
 
 *listen to the wise woman that doesn't speak but lead in the dreams you can't remember.*
