@@ -1,4 +1,6 @@
-# ready for the awakening?
+# initiation
+
+[The Lodge](theLodge.svg)
 
 <div align="center">
 <br><br>
