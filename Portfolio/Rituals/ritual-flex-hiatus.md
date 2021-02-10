@@ -1,8 +1,8 @@
 # 12 2001 Oldsmobile Alero's on 36 inch spinners like the WWE championship from the early mid 2 thousands 
 
-!["flex"]("/niftyMobile.png")
-
 ## Big Doge da New Standard
+
+### peat sweat green on repeat... sweat peat re green pete sweaty peas on 
 
 ![flex](/niftyMobile.png)
 
