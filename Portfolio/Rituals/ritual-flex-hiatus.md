@@ -1,4 +1,11 @@
 # 12 2001 Oldsmobile Alero's on 36 inch spinners like the WWE championship from the early mid 2 thousands 
+
+!["flex"]("/niftyMobile.png")
+
+## Big Doge da New Standard
+
+![flex](/niftyMobile.png)
+
 Project Pat Ghetty Green on repeat sweat ozoned tinted masculinity translucent
 smoke hue experienced in the most pristine of 8k vision on 7000 inch drive in safe-parameterized-social       distanced new normal blowjobs behind the checkers.
 
